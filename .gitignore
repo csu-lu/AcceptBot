@@ -1,0 +1,18 @@
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller 打包产生的文件夹
+build/
+dist/
+*.spec
+
+# 用户本地状态和配置文件（绝对不能把账号密码上传到 Git，必须忽略）
+config.json
+state.json
+
+# 虚拟环境
+venv/
+env/
+.env/
